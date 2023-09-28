@@ -189,3 +189,21 @@ console.log(R2D2); //"Bip=Bop"
 
 Lo que hace que `let` sea tu opcion mas adecuada comparado con `var` es que ya no te tienes que molestar en saber si has usado un nombre para una variable u otra ya que `let` existe solo dentro de su funcion.
 
+#Diferencias entre `,' && "
+
+Al intentar escribir algo en el console.log() nos encontraremos muchas veces con complicaciones al escribir el codigo y una de ellas son muchas de las palabras que hay en ingles y que usan ' para unir palabras por ejemplo:
+
+```javascript
+console.log('It's time to wake up guys!')// nos saldra un error de sintaxis porque tenemos 3 ' y el sistema no sabria identificar el prinipio y el final
+```
+
+Otro ejemplo para prevenir esto es la utilizacion de las `backtick literals` que tenemos a nuestra mano.
+
+Para resolver el problema de arriba y en caso de combinacion de la otra forma de escribir nuestro string podemos resolverlo asi:
+```javascript
+console.log("My girlfriend's friend likes the word "Biblioklept"")// Esto resultaria en error
+```
+Que podemos hacer nosotros para evitar esto? Queda una solucion **`**.
+```javascript
+console.log(`My girlfriend's friend likes the word "Biblioklept"`)// Utilizando estas backtick literals podemos evitar los errores mencionados arriba
+```
