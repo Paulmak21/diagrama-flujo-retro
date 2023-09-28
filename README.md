@@ -60,6 +60,7 @@ Estos lenguajes ejecutan linea por linea el programa y a la vez ejecutan cada co
 
 ###### Lenguajes interpretados son PHP, Ruby, Python y JavaScript.
 
+Una de las principales diferencias entre los lenguajes compilados e interpretados es cuando el compilado ejecutar todo el codigo mientras que el interpretado lo hace `JIT` (Just In Time) esto quiere decir que interpreta el codigo segun se necesita.
 
 
 # Diferencia entre `var` y `let` 
