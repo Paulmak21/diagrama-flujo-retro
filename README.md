@@ -51,12 +51,12 @@ Aqui algunos ejemplos de `lenguajes declarativos:`
 
 ### **Lenguajes compilados**
 
-Los lenguajes compilados son convertidos directamente a codigo maquina que el procesador puede ejecutar. Como resultado, suelen ser mas rapidos y mas eficientes al ejecutarse en comparacion con los lenguajes interpretados.
+Los lenguajes compilados son convertidos directamente a codigo maquina que el procesador puede ejecutar. Como resultado, suelen ser mas rapidos y mas eficientes al ejecutarse en comparacion con los lenguajes interpretados. Para esto necesitamos el uso de un compilador
 
 ###### Lenguajes compilados puros son C, C++, Erlang, Haskell, Rust y Go.
 ### **Lenguajes interpretados**
 
-Estos lenguajes ejecutan linea por linea el programa y a la vez ejecutan cada comando.
+Estos lenguajes ejecutan linea por linea el programa y a la vez ejecutan cada comando. Necesitamos de un interprete(Que es esto?) El interprete a la vez que va traduciendo lo que dice el texto para nosotros poder entenderlo. Si llega a encontrar un error se detiene.(Estos lenguajes pueden ser mas lentos que los compilados)
 
 ###### Lenguajes interpretados son PHP, Ruby, Python y JavaScript.
 
