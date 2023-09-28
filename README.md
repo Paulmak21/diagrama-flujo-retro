@@ -9,12 +9,12 @@ Que son?
 #### Empezaremos por la ***programacion imperativa*** explicando que es y para que se utiliza:
 
 1. La programación imperativa es el enfoque de programación más antiguo y básico
-2. Tu describes las instrucciones paso-a-paso para como se ejecutara un porograma y te de los resultados deseados.
+2. Tu describes las instrucciones paso-a-paso para como se ejecutara un programa y te de los resultados deseados.
 3. Con el control de flujo de tu codigo puedes seguir el codigo facilmente. Eso si cuanto mas añadas al codigo y mas avances, mas dificil y complejo sera comprenderlo y leerlo.
 4. Tienes el control y adaptabilidad total de tu estructura para ejecutarlo como quieras para tu aplicacion.
 5. Como tienes mas codigo con el que trabajar es mas probable que estes pasando mas tiempo debuggeando codigo que con la programacion declarativa
 
-#### ***Declaracion declarativa:***
+#### ***Programacion declarativa:***
 
 1. La principal diferencia es que describe lo que desea que logre el programa en lugar de como debe ejecutarse
 2. Aqui TU defines los resultados que deseas que se logren en un programa/aplicacion sin describir su flujo de control
