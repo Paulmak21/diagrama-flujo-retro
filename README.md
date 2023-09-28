@@ -189,7 +189,7 @@ console.log(R2D2); //"Bip=Bop"
 
 Lo que hace que `let` sea tu opcion mas adecuada comparado con `var` es que ya no te tienes que molestar en saber si has usado un nombre para una variable u otra ya que `let` existe solo dentro de su funcion.
 
-#Diferencias entre `,' && "
+# Diferencias entre `,' && "
 
 Al intentar escribir algo en el console.log() nos encontraremos muchas veces con complicaciones al escribir el codigo y una de ellas son muchas de las palabras que hay en ingles y que usan ' para unir palabras por ejemplo:
 
